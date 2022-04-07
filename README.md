@@ -14,7 +14,7 @@
   <img align="center" alt="henri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="henri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="henri-Js" height="30" width="40" src="https://www.ativasoft.com.br/blog/wp-content/uploads/2018/01/java_icon.png">
+  <img align="center" alt="henri-Java" height="50" width="60" src="https://www.ativasoft.com.br/blog/wp-content/uploads/2018/01/java_icon.png">
   <img align="right" alt="anime-dev" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/854819688901771298/901857723237400667/original.gif">
 </div>
   
