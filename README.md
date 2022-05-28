@@ -9,13 +9,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Estrela&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="henri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="henri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="henri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="henri-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/226/226777.png">
-  <img align="right" alt="anime-dev" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/854819688901771298/901857723237400667/original.gif">
+  <img align="right" alt="anime-dev" height="190px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/931612848088580166/980229099870122085/pngwing.com.png">
 </div>
   
   ##
