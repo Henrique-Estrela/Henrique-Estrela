@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henrique-estrela&show_icons=true&count_private=true&hide_border=true&title_color=5157d2&icon_color=5157d2&text_color=5157d2&bg_color=0d1117" alt="Henrique Estrela Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-estrela&layout=compact&hide_border=true&title_color=5157d2&text_color=5157d2&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henrique-estrela&show_icons=true&count_private=true&hide_border=true&title_color=5157d2&icon_color=5157d2&text_color=5157d2&bg_color=0d1117" alt="Henrique Estrela github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Estrela&layout=compact&hide_border=true&langs_count=6&title_color=5157d2&text_color=5157d2&bg_color=0d1117"/>
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Henrique-estrela&color=5157d2&bg_color=0d1117&hide_border=true&area=true&text_color=5157d2)
