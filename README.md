@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5157d2&height=180&section=header&text=Henrique Estrela Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5157d2&height=180"/> 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5157d2&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+Nome+É+Henrique+Estrela+Tenho+18+anos;Eu+Sou+de+Feira,+Bahia;Eu+Estudo+Desenvolvimento+de+Sistemas+no+Senai;Bem-vindo+ao+meu+repositorio+:%29)](https://git.io/typing-svg)
 
