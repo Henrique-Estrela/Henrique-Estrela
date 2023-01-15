@@ -11,6 +11,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Henrique-Estrela&bg_color=0a0c10&color=464cb4&line=464cb4&point=00ccff&area=true&hide_border=true)
 
 
+
 ### Habilidades Principais:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -48,12 +49,11 @@
 ##
 
 ### Redes Sociais:
-![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=Discord&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&labelColor=0D1117&textColor=0D1117)&nbsp;
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Spotify](https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=Spotify&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=Discord&labelColor=0D1117&textColor=0D1117)&nbsp;]()
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&labelColor=0D1117&textColor=0D1117)&nbsp;](https://github.com/Henrique-Estrela/Henrique-Estrela)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&labelColor=0D1117&textColor=0D1117)&nbsp;](https://www.linkedin.com/in/henrique-estrela-21163921a/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&labelColor=0D1117&textColor=0D1117)&nbsp;](https://www.instagram.com/h.estrela_e/)
+[![Spotify](https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=Spotify&labelColor=0D1117&textColor=0D1117)&nbsp;](https://open.spotify.com/user/31xqo7czuwdttieawj2hifej3zkq?si=2095dc2de73a4756)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
