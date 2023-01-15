@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Estrela&layout=compact&hide_border=true&langs_count=6&title_color=5157d2&text_color=5157d2&bg_color=0d1117"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Henrique-Estrela&bg_color=000000&color=464cb4&line=464cb4&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Henrique-Estrela&bg_color=272b33&color=464cb4&line=464cb4&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Habilidades Principais:
