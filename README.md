@@ -44,7 +44,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=Markdown&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   
   
@@ -52,7 +52,6 @@
   
 ### Estudando no momento:
 
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
