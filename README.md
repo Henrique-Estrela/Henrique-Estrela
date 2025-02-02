@@ -37,7 +37,7 @@
 
 ### Também Conheço:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![MySQL](https://img.shields.io/badge/Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 ![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
@@ -52,7 +52,7 @@
   
 ### Estudando no momento:
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ##
