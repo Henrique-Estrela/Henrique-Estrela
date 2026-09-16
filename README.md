@@ -74,46 +74,24 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="center" style="margin: 20px auto 12px; width: min(920px, 100%);">
+  <div style="border-top: 1px solid rgba(255,255,255,0.25); width: 100%; margin-bottom: 18px;"></div>
 
-  <img
-    width="420"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Henrique-Estrela&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&title_color=5157D2&icon_color=5157D2&text_color=FFFFFF&bg_color=0D1117"
-    alt="Estatísticas do GitHub"
-  />
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 16px; width: 100%;">
 
-  <img
-    width="420"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Estrela&layout=compact&langs_count=8&hide_border=true&border_radius=16&title_color=5157D2&text_color=FFFFFF&bg_color=0D1117"
-    alt="Linguagens mais utilizadas"
-  />
+    <a href="https://github.com/Henrique-Estrela" style="display: flex; align-items: center; justify-content: center; width: min(480px, 90%); padding: 12px 18px; border-radius: 10px; background: rgba(20, 24, 30, 0.9); border: 1px solid rgba(88, 166, 255, 0.45); color: #58a6ff; text-decoration: none; font-weight: 700; font-size: 18px; box-shadow: 0 0 0 1px rgba(255,255,255,0.04);">
+      <span style="margin-right: 10px;">📈</span>Estatísticas do GitHub
+    </a>
 
-</div>
+    <a href="https://github.com/Henrique-Estrela" style="display: flex; align-items: center; justify-content: center; width: min(480px, 90%); padding: 12px 18px; border-radius: 10px; background: rgba(20, 24, 30, 0.9); border: 1px solid rgba(88, 166, 255, 0.45); color: #58a6ff; text-decoration: none; font-weight: 700; font-size: 18px; box-shadow: 0 0 0 1px rgba(255,255,255,0.04);">
+      <span style="margin-right: 10px;">💻</span>Linguagens mais utilizadas
+    </a>
 
-<br>
+    <a href="https://github.com/Henrique-Estrela" style="display: flex; align-items: center; justify-content: center; width: min(480px, 90%); padding: 12px 18px; border-radius: 10px; background: rgba(20, 24, 30, 0.9); border: 1px solid rgba(88, 166, 255, 0.45); color: #58a6ff; text-decoration: none; font-weight: 700; font-size: 18px; box-shadow: 0 0 0 1px rgba(255,255,255,0.04);">
+      <span style="margin-right: 10px;">📊</span>Gráfico de atividades do GitHub
+    </a>
 
-<div align="center">
-
-  <img
-    width="900"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique-Estrela&bg_color=0D1117&color=FFFFFF&line=5157D2&point=FFFFFF&area_color=5157D2&area=true&hide_border=true&radius=16&custom_title=Gráfico%20de%20Atividades"
-    alt="Gráfico de atividades do GitHub"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    width="700"
-    src="https://streak-stats.demolab.com?user=Henrique-Estrela&theme=transparent&hide_border=true&border_radius=16&ring=5157D2&fire=5157D2&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    alt="Sequência de contribuições no GitHub"
-  />
-
+  </div>
 </div>
 
 <br>
