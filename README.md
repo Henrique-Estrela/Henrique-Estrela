@@ -77,12 +77,14 @@
 <div align="center">
 
   <img
+    width="420"
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=Henrique-Estrela&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&title_color=5157D2&icon_color=5157D2&text_color=FFFFFF&bg_color=0D1117"
     alt="Estatísticas do GitHub"
   />
 
   <img
+    width="420"
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Estrela&layout=compact&langs_count=8&hide_border=true&border_radius=16&title_color=5157D2&text_color=FFFFFF&bg_color=0D1117"
     alt="Linguagens mais utilizadas"
@@ -95,7 +97,7 @@
 <div align="center">
 
   <img
-    width="96%"
+    width="900"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique-Estrela&bg_color=0D1117&color=FFFFFF&line=5157D2&point=FFFFFF&area_color=5157D2&area=true&hide_border=true&radius=16&custom_title=Gráfico%20de%20Atividades"
     alt="Gráfico de atividades do GitHub"
   />
@@ -107,6 +109,7 @@
 <div align="center">
 
   <img
+    width="700"
     src="https://streak-stats.demolab.com?user=Henrique-Estrela&theme=transparent&hide_border=true&border_radius=16&ring=5157D2&fire=5157D2&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
     alt="Sequência de contribuições no GitHub"
   />
@@ -243,33 +246,10 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/henrique-estrela-21163921a/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-5157D2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/h.estrela_e/">
-    <img
-      src="https://img.shields.io/badge/Instagram-5157D2?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-
-  <a href="https://open.spotify.com/user/31xqo7czuwdttieawj2hifej3zkq">
-    <img
-      src="https://img.shields.io/badge/Spotify-5157D2?style=for-the-badge&logo=spotify&logoColor=white"
-      alt="Spotify"
-    />
-  </a>
-
-  <a href="https://github.com/Henrique-Estrela">
-    <img
-      src="https://img.shields.io/badge/GitHub-5157D2?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-estrela-21163921a/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h.estrela_e/)
+  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31xqo7czuwdttieawj2hifej3zkq)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henrique-Estrela)
 
 </div>
 
