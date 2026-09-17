@@ -77,7 +77,7 @@
 <div align="center">
         <img
           width="900"
-          src="https://streak-stats.demolab.com?user=Henrique-Estrela&theme=dark&hide_border=true&border_radius=12&ring=FF6B35&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+          src="https://streak-stats.demolab.com?user=Henrique-Estrela&theme=dark&hide_border=true&border_radius=12&ring=5157D2&fire=5157D2&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&date_format=j%20M%20Y&cache_seconds=1800"
           alt="Ofensiva de commits do GitHub"
         />
 </div>
