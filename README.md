@@ -76,25 +76,36 @@
 
 <div align="center">
 
-  <img
-    width="700"
-    src="https://streak-stats.demolab.com?user=Henrique-Estrela&theme=dark&hide_border=true&border_radius=12&ring=FF6B35&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    alt="Ofensiva de commits do GitHub"
-  />
+  <table>
+    <tr>
+      <td valign="top">
+        <img
+          width="300"
+          src="https://streak-stats.demolab.com?user=Henrique-Estrela&theme=dark&hide_border=true&border_radius=12&ring=FF6B35&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+          alt="Ofensiva de commits do GitHub"
+        />
+      </td>
+      <td valign="top">
+        <img
+          width="300"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-Estrela&theme=github_dark"
+          alt="Estatísticas do GitHub"
+        />
+      </td>
+      <td valign="top">
+        <img
+          width="300"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Estrela&theme=github_dark"
+          alt="Linguagens mais utilizadas"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 <br>
 
-<div align="center">
-
-  <img
-    width="820"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-Estrela&theme=github_dark"
-    alt="Resumo de atividades do GitHub"
-  />
-
-</div>
 
 <br>
 
