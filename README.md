@@ -77,17 +77,9 @@
 <div align="center">
 
   <img
-    width="410"
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-Estrela&theme=github_dark"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    width="410"
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Estrela&theme=github_dark"
-    alt="Linguagens mais utilizadas"
+    width="700"
+    src="https://streak-stats.demolab.com?user=Henrique-Estrela&theme=dark&hide_border=true&border_radius=12&ring=FF6B35&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="Ofensiva de commits do GitHub"
   />
 
 </div>
@@ -105,6 +97,7 @@
 </div>
 
 <br>
+
 
 <!-- ====================================================== -->
 <!--                  TECNOLOGIAS PRINCIPAIS                 -->
