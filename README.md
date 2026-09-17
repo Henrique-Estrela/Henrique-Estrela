@@ -76,7 +76,7 @@
 
 <div align="center">
         <img
-          width="300"
+          width="900"
           src="https://streak-stats.demolab.com?user=Henrique-Estrela&theme=dark&hide_border=true&border_radius=12&ring=FF6B35&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
           alt="Ofensiva de commits do GitHub"
         />
@@ -88,14 +88,14 @@
     <tr>
       <td valign="top">
         <img
-          width="300"
+          width="500"
           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-Estrela&theme=github_dark"
           alt="Estatísticas do GitHub"
         />
       </td>
       <td valign="top">
         <img
-          width="300"
+          width="500"
           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Estrela&theme=github_dark"
           alt="Linguagens mais utilizadas"
         />
