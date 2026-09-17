@@ -75,16 +75,17 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <table>
-    <tr>
-      <td valign="top">
         <img
           width="300"
           src="https://streak-stats.demolab.com?user=Henrique-Estrela&theme=dark&hide_border=true&border_radius=12&ring=FF6B35&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
           alt="Ofensiva de commits do GitHub"
         />
-      </td>
+</div>
+
+<div align="center">
+
+  <table>
+    <tr>
       <td valign="top">
         <img
           width="300"
