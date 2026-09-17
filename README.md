@@ -74,24 +74,34 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center" style="margin: 20px auto 12px; width: min(920px, 100%);">
-  <div style="border-top: 1px solid rgba(255,255,255,0.25); width: 100%; margin-bottom: 18px;"></div>
+<div align="center">
 
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 16px; width: 100%;">
+  <img
+    width="410"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-Estrela&theme=github_dark"
+    alt="Estatísticas do GitHub"
+  />
 
-    <a href="https://github.com/Henrique-Estrela" style="display: flex; align-items: center; justify-content: center; width: min(480px, 90%); padding: 12px 18px; border-radius: 10px; background: rgba(20, 24, 30, 0.9); border: 1px solid rgba(88, 166, 255, 0.45); color: #58a6ff; text-decoration: none; font-weight: 700; font-size: 18px; box-shadow: 0 0 0 1px rgba(255,255,255,0.04);">
-      <span style="margin-right: 10px;">📈</span>Estatísticas do GitHub
-    </a>
+  <img
+    width="410"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-Estrela&theme=github_dark"
+    alt="Linguagens mais utilizadas"
+  />
 
-    <a href="https://github.com/Henrique-Estrela" style="display: flex; align-items: center; justify-content: center; width: min(480px, 90%); padding: 12px 18px; border-radius: 10px; background: rgba(20, 24, 30, 0.9); border: 1px solid rgba(88, 166, 255, 0.45); color: #58a6ff; text-decoration: none; font-weight: 700; font-size: 18px; box-shadow: 0 0 0 1px rgba(255,255,255,0.04);">
-      <span style="margin-right: 10px;">💻</span>Linguagens mais utilizadas
-    </a>
+</div>
 
-    <a href="https://github.com/Henrique-Estrela" style="display: flex; align-items: center; justify-content: center; width: min(480px, 90%); padding: 12px 18px; border-radius: 10px; background: rgba(20, 24, 30, 0.9); border: 1px solid rgba(88, 166, 255, 0.45); color: #58a6ff; text-decoration: none; font-weight: 700; font-size: 18px; box-shadow: 0 0 0 1px rgba(255,255,255,0.04);">
-      <span style="margin-right: 10px;">📊</span>Gráfico de atividades do GitHub
-    </a>
+<br>
 
-  </div>
+<div align="center">
+
+  <img
+    width="820"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-Estrela&theme=github_dark"
+    alt="Resumo de atividades do GitHub"
+  />
+
 </div>
 
 <br>
